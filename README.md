@@ -1,5 +1,5 @@
 <a href="https://awe0.github.io/portfolio.allan.github.io/">
-  <img src="https://github.com/Awe0/Awe0/blob/main/icons/LogoAwe.png" alt="My web site"/>
+  <img align="center" src="https://github.com/Awe0/Awe0/blob/main/icons/LogoAwe.png" alt="My web site"/>
 </a>
 
 #### Top Repositories
