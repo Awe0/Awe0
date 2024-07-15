@@ -1,5 +1,4 @@
-<pre>
-<p class="text-center">
+<pre><p class="text-center">
           _____                    _____                    _____          
          /\    \                  /\    \                  /\    \         
         /::\    \                /::\____\                /::\    \        
@@ -22,8 +21,7 @@
         \::/    /                \__/____/                \::/    /        
          \/____/                                           \/____/         
                                                                    
-</p>
-          </pre>
+</p></pre>
 
 
 #### Top Repositories
