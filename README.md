@@ -9,6 +9,7 @@
 </a>
 <a href="https://github.com/Awe0/portfolio.allan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
-![Javascript](https://img.shields.io/badge/Javascript%20-grey?style=for-the-badge&logo=javascript)
 </a>
+![Javascript](https://img.shields.io/badge/Javascript%20-grey?style=for-the-badge&logo=javascript)
+![Gdscript](https://img.shields.io/badge/Gdscript%20-grey?style=for-the-badge&logo=gdscript)
 
