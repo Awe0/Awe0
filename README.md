@@ -1,15 +1,11 @@
-
-
-
 #### Top Repositories
 
-|<a href="https://github.com/Awe0/Stellar-Station">
+<a href="https://github.com/Awe0/Stellar-Station">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=Stellar-Station&theme=merko" />
-</a>|
+</a>
 <a href="https://github.com/Awe0/portfolio.allan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
-</a>|
-|:---------------:|
+</a>
 
 <div>
     <span>
@@ -20,10 +16,10 @@
     </span>
     <span>
         <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
-    </span>|
+    </span>
     <span>
         <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
-    </span>|
+    </span>
 </div>
 
 #### Stats
@@ -31,3 +27,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko" />
 
+<img align="center" href="https://awe0.github.io/portfolio.allan.github.io/" src="https://github.com/Awe0/Awe0/blob/main/icons/gnometerminal.svg" />
