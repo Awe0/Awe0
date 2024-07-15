@@ -8,8 +8,7 @@
 </a>
 <a href="https://github.com/Awe0/portfolio.allan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
-</a> |
-| ------------- | ------------- |
+</a>
 
 <div>
     <span>
@@ -21,7 +20,7 @@
     <span>
         <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
     </span>
-    <span>
+    <span align="center">
         <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
     </span>
 </div>
