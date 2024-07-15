@@ -27,8 +27,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko&rank_icon=github" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&hide_progress=true&theme=merko" />
 
-### Click here ↙️
+### Click here ↙️ or here ↘️
 
+<a href="[https://awe0.github.io/portfolio.allan.github.io](https://awe0.github.io/portfolio.allan.github.io/src/cv.pdf)/">
+    <img src="https://img.shields.io/badge/CV-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
+</a>
 <a href="https://awe0.github.io/portfolio.allan.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
 </a>
