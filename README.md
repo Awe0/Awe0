@@ -1,4 +1,4 @@
-#### Portfolio here ↘️
+#### Portfolio here ↙️
 
 <a href="https://awe0.github.io/portfolio.allan.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
