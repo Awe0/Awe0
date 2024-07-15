@@ -7,7 +7,7 @@
 <a href="https://github.com/Awe0/Stellar-Station">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=Stellar-Station&theme=merko" />
 </a>
-<a href="https://github.com/Awe0/Ada_Tech_School">
+<a href="https://github.com/Awe0/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=Ada_Tech_School&theme=merko" />
 </a>
 
