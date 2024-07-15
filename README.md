@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <pre style="text-align: left;">
+<div class="text-center">
+    <pre>
           _____                    _____                    _____          
          /\    \                  /\    \                  /\    \         
         /::\    \                /::\____\                /::\    \        
