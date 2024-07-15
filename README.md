@@ -8,7 +8,7 @@
 </a>
 <a href="https://github.com/Awe0/portfolio.allan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
-</a>
+</a> |
 | ------------- | ------------- |
 
 <div>
