@@ -27,7 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko&rank_icon=github" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&hide_progress=true&theme=merko" />
 
-### Click here ↙️ or here ↘️
+### Click here ↙️ or here ↙️
 
 <div>
     <span>
