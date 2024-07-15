@@ -11,6 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
 </a>
 
-![Javascript](https://img.shields.io/badge/Javascript%20-grey?style=for-the-badge&logo=javascript)
-![Gdscript](https://img.shields.io/badge/Gdscript%20-grey?style=for-the-badge&logo=gdscript)
+![Javascript](https://img.shields.io/badge/Javascript%20-yellow?style=for-the-badge&logo=javascript)
+![Gdscript](https://img.shields.io/badge/Gdscript%20-blue?style=for-the-badge&logo=godotengine)
 
