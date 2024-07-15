@@ -1,6 +1,6 @@
 ![Awe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko)
 
-| <a href="https://github.com/Awe0/Awe0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Awe0's github stats" /></a> | <a href="https://github.com/Awe0/Awe0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko&hide_border=true" /></a> |
+| <a href="https://github.com/Awe0/Awe0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko" alt="Awe0's github stats" /></a> | <a href="https://github.com/Awe0/Awe0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
