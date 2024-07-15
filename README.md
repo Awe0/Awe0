@@ -3,7 +3,6 @@
 
 #### Top Repositories
 
-
 <a href="https://github.com/Awe0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=Stellar-Station&theme=merko" />
 </a>
@@ -11,19 +10,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
 </a>
 
-<div style="display: flex; gap: 10px;">
-    <span>
-        <img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=javascript" alt="Javascript">
-    </span>
-    <span>
-        <img src="https://img.shields.io/badge/Html-0a0f0b?style=for-the-badge&logo=html5" alt="HTML">
-    </span>
-    <span>
-        <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
-    </span>
-    <span style="margin-left: 20px;">
-        <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
-    </span>
-</div>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=javascript" alt="Javascript"></td>
+    <td><img src="https://img.shields.io/badge/Html-0a0f0b?style=for-the-badge&logo=html5" alt="HTML"></td>
+    <td><img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS"></td>
+    <td style="padding-left: 20px;"><img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript"></td>
+  </tr>
+</table>
 
 
