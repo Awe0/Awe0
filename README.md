@@ -1,5 +1,5 @@
 <a href="https://awe0.github.io/portfolio.allan.github.io/">
-    <img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
+    <img src="https://img.shields.io/badge/My web site-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
 </a>
 
 #### Top Repositories
