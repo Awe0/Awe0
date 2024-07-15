@@ -21,8 +21,9 @@
     <span>
         <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
     </span>
-    <span style="margin-left: 5000px">
+    <span style="margin-left: 20px;">
         <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
     </span>
 </div>
+
 
