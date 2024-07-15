@@ -26,7 +26,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko" />
-
-<a href="https://github.com/Awe0/Stellar-Station">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=Stellar-Station&theme=merko" />
-</a>
