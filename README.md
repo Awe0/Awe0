@@ -21,15 +21,8 @@
     <span>
         <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
     </span>
-    <span>
+    <span style="gap: 50px;">
         <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
     </span>
 </div>
-
-
-
-![Javascript](https://img.shields.io/badge/Html%20-0a0f0b?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/Html%20-0a0f0b?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/Css%20-0a0f0b?style=for-the-badge&logo=css3)
-![Gdscript](https://img.shields.io/badge/Gdscript%20-0a0f0b?style=for-the-badge&logo=godotengine)
 
