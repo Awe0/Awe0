@@ -20,7 +20,7 @@
     <span>
         <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
     </span>
-    <span align="center">
+    <span>
         <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
     </span>
 </div>
