@@ -1,25 +1,4 @@
-          _____                    _____                    _____          
-         /\    \                  /\    \                  /\    \         
-        /::\    \                /::\____\                /::\    \        
-       /::::\    \              /:::/    /               /::::\    \       
-      /::::::\    \            /:::/   _/___            /::::::\    \      
-     /:::/\:::\    \          /:::/   /\    \          /:::/\:::\    \     
-    /:::/__\:::\    \        /:::/   /::\____\        /:::/__\:::\    \    
-   /::::\   \:::\    \      /:::/   /:::/    /       /::::\   \:::\    \   
-  /::::::\   \:::\    \    /:::/   /:::/   _/___    /::::::\   \:::\    \  
- /:::/\:::\   \:::\    \  /:::/___/:::/   /\    \  /:::/\:::\   \:::\    \ 
-/:::/  \:::\   \:::\____\|:::|   /:::/   /::\____\/:::/__\:::\   \:::\____\
-\::/    \:::\  /:::/    /|:::|__/:::/   /:::/    /\:::\   \:::\   \::/    /
- \/____/ \:::\/:::/    /  \:::\/:::/   /:::/    /  \:::\   \:::\   \/____/ 
-          \::::::/    /    \::::::/   /:::/    /    \:::\   \:::\    \     
-           \::::/    /      \::::/___/:::/    /      \:::\   \:::\____\    
-           /:::/    /        \:::\__/:::/    /        \:::\   \::/    /    
-          /:::/    /          \::::::::/    /          \:::\   \/____/     
-         /:::/    /            \::::::/    /            \:::\    \         
-        /:::/    /              \::::/    /              \:::\____\        
-        \::/    /                \__/____/                \::/    /        
-         \/____/                                           \/____/         
-                                                                                                                     
+<img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=javascript" alt="Javascript">
 
 #### Top Repositories
 
@@ -49,3 +28,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko" />
+
+<img align="center" src="https://github.com/Awe0/Awe0/blob/main/icons/LogoAwe.png" />
