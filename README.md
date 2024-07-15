@@ -15,7 +15,7 @@
     <td><img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=javascript" alt="Javascript"></td>
     <td><img src="https://img.shields.io/badge/Html-0a0f0b?style=for-the-badge&logo=html5" alt="HTML"></td>
     <td><img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS"></td>
-    <td style="padding-left: 20px;"><img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript"></td>
+    <td style="padding-left: 200px;"><img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript"></td>
   </tr>
 </table>
 
