@@ -26,8 +26,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awe0&show_icons=true&theme=merko" alt="Awe0's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awe0&layout=compact&theme=merko" />
-<div>
-  <span>
-    <img align="center" href="https://awe0.github.io/portfolio.allan.github.io/" src="https://github.com/Awe0/Awe0/blob/main/icons/gnometerminal.svg" />
-  </span>
-</div>
+<a href="https://awe0.github.io/portfolio.allan.github.io/">
+    <img align="center" src="https://github.com/Awe0/Awe0/blob/main/icons/gnometerminal.svg" />
+</a>
