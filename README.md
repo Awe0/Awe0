@@ -11,7 +11,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Awe0&repo=portfolio.allan.github.io&theme=merko" />
 </a>
 
-![Javascript](https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&labelColor=ffffff&logo=javascript)
+<div style="display: flex; gap: 10px;">
+    <span>
+        <img src="https://img.shields.io/badge/Javascript-0a0f0b?style=for-the-badge&logo=javascript" alt="Javascript">
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Html-0a0f0b?style=for-the-badge&logo=html5" alt="HTML">
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Css-0a0f0b?style=for-the-badge&logo=css3" alt="CSS">
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Gdscript-0a0f0b?style=for-the-badge&logo=godotengine" alt="Gdscript">
+    </span>
+</div>
+
+
+
+![Javascript](https://img.shields.io/badge/Html%20-0a0f0b?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/Html%20-0a0f0b?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/Css%20-0a0f0b?style=for-the-badge&logo=css3)
 ![Gdscript](https://img.shields.io/badge/Gdscript%20-0a0f0b?style=for-the-badge&logo=godotengine)
