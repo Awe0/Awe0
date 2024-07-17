@@ -1,4 +1,4 @@
-<a href="https://awe0.github.io/portfolio.allan.github.io/">
+<a href="https://awe0.github.io/Portfolio/">
   <img align="center" src="https://github.com/Awe0/Awe0/blob/main/icons/LogoAwe.png" alt="My web site"/>
 </a>
 
@@ -38,7 +38,7 @@
 
 <div>
     <span>
-      <a href="https://awe0.github.io/portfolio.allan.github.io/">
+      <a href="https://awe0.github.io/Portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
       </a>
     </span>
