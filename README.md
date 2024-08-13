@@ -43,7 +43,7 @@
       </a>
     </span>
     <span>
-      <a href="https://awe0.github.io/portfolio.allan.github.io/src/cv.pdf">
+      <a href="https://awe0.github.io/Portfolio/src/cv.pdf">
         <img src="https://img.shields.io/badge/CV-0a0f0b?style=for-the-badge&logo=gnometerminal" alt="My web site"/>
       </a>
     </span>
